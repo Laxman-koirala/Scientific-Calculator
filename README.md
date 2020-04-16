@@ -9,7 +9,7 @@ The aim of this project is to develop fully functioning alternative to a calcula
 I studied mathematics and also worked for a school as math teacher. I really enjoy number, so maybe that's exactly the reason to choose.
 # Technologies going to use and why
  1. System Software - Android Studio
-    Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the         highest-quality apps for every Android device. It offer tools custom-tailored for Android developers, including rich code editing,       debugging, testing, and profiling tools.
+    - Android Studio is Android's official IDE. It is purpose built for Android to accelerate your development and help you build the         highest-quality apps for every Android device. It offer tools custom-tailored for Android developers, including rich code editing,       debugging, testing, and profiling tools.
  2. Programming Language - Java
    - With Object oriented paradigms, it has many methods inbuilt to develop various application.
    - No threat to security because nothing gets executed outside the JVM.
