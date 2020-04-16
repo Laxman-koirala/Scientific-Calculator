@@ -1,2 +1,6 @@
 # Scientific-Calculator
-Fully functioning alternative to a calculator with a log of equations and results in the cloud.
+# Agenda
+ 1. Aim of the App and reason behind choosing.
+ 2. Technologies going to use and why.
+ 3. Plan for the next two weeks.
+
